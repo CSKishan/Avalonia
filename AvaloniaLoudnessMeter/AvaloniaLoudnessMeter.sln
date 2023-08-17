@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaloniaLoudnessMeter", "AvaloniaLoudnessMeter\AvaloniaLoudnessMeter.csproj", "{F76CB4C3-B07E-4206-BBB0-11EA1FF44A02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaloniaLoudnessMeter.Android", "AvaloniaLoudnessMeter.Android\AvaloniaLoudnessMeter.Android.csproj", "{B9491BCF-D054-495B-B961-DDD8A9C939DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaloniaLoudnessMeter.Desktop", "AvaloniaLoudnessMeter.Desktop\AvaloniaLoudnessMeter.Desktop.csproj", "{5B066E6F-C1C9-43F1-8F0E-3FFF612ABE69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaloniaLoudnessMeter.iOS", "AvaloniaLoudnessMeter.iOS\AvaloniaLoudnessMeter.iOS.csproj", "{E455524D-BF20-4447-AC81-1BCAE4462F20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaloniaLoudnessMeter.Browser", "AvaloniaLoudnessMeter.Browser\AvaloniaLoudnessMeter.Browser.csproj", "{7FD52608-80C2-4D10-9EEE-DB484DB393A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F76CB4C3-B07E-4206-BBB0-11EA1FF44A02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F76CB4C3-B07E-4206-BBB0-11EA1FF44A02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F76CB4C3-B07E-4206-BBB0-11EA1FF44A02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F76CB4C3-B07E-4206-BBB0-11EA1FF44A02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9491BCF-D054-495B-B961-DDD8A9C939DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9491BCF-D054-495B-B961-DDD8A9C939DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9491BCF-D054-495B-B961-DDD8A9C939DA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B9491BCF-D054-495B-B961-DDD8A9C939DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9491BCF-D054-495B-B961-DDD8A9C939DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9491BCF-D054-495B-B961-DDD8A9C939DA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{5B066E6F-C1C9-43F1-8F0E-3FFF612ABE69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B066E6F-C1C9-43F1-8F0E-3FFF612ABE69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B066E6F-C1C9-43F1-8F0E-3FFF612ABE69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B066E6F-C1C9-43F1-8F0E-3FFF612ABE69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E455524D-BF20-4447-AC81-1BCAE4462F20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E455524D-BF20-4447-AC81-1BCAE4462F20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E455524D-BF20-4447-AC81-1BCAE4462F20}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E455524D-BF20-4447-AC81-1BCAE4462F20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E455524D-BF20-4447-AC81-1BCAE4462F20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E455524D-BF20-4447-AC81-1BCAE4462F20}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{7FD52608-80C2-4D10-9EEE-DB484DB393A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FD52608-80C2-4D10-9EEE-DB484DB393A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FD52608-80C2-4D10-9EEE-DB484DB393A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FD52608-80C2-4D10-9EEE-DB484DB393A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4ED7584-4FA9-4C4A-8F5F-AB209A1C0260}
+	EndGlobalSection
+EndGlobal

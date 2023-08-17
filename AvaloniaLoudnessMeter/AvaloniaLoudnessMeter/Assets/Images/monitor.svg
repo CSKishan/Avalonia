@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="47.789665mm"
+   height="31.932718mm"
+   viewBox="0 0 47.789665 31.932718"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="monitor_01.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#585858"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="false"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     labelstyle="default"
+     inkscape:clip-to-page="false"
+     borderlayer="true" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-1.1051674,-7.0654984)">
+    <g
+       id="g7"
+       transform="translate(0,0.63929889)">
+      <rect
+         style="fill:#808080;fill-opacity:0;stroke:#000000;stroke-width:4.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:20.1;stroke-dasharray:none;paint-order:fill markers stroke"
+         id="rect1"
+         width="43.289665"
+         height="19.544279"
+         x="3.3551674"
+         y="8.6761999" />
+      <rect
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.465;stroke-linejoin:miter;stroke-miterlimit:20.1;stroke-dasharray:none;paint-order:stroke fill markers"
+         id="rect1-3"
+         width="13.973244"
+         height="2.7398496"
+         x="18.013378"
+         y="31.112574" />
+      <rect
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.46499;stroke-linejoin:round;stroke-miterlimit:20.1;stroke-dasharray:none;paint-order:stroke fill markers"
+         id="rect1-3-5"
+         width="30.138372"
+         height="2.3745358"
+         x="9.9308138"
+         y="35.251888" />
+    </g>
+  </g>
+</svg>
